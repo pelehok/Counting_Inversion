@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_Inversion", "Counting_Inversion\Counting_Inversion.csproj", "{9DA32551-05D8-4385-892F-992930CBCB0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountInvertionTests", "CountInvertionTests\CountInvertionTests.csproj", "{ACD033EF-1087-454A-9E09-EAF6090BE116}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9DA32551-05D8-4385-892F-992930CBCB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DA32551-05D8-4385-892F-992930CBCB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DA32551-05D8-4385-892F-992930CBCB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD033EF-1087-454A-9E09-EAF6090BE116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD033EF-1087-454A-9E09-EAF6090BE116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD033EF-1087-454A-9E09-EAF6090BE116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD033EF-1087-454A-9E09-EAF6090BE116}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
